@@ -1,10 +1,16 @@
 # Experiment-4-Single-Server-with-infinite-Capacity-Queueing-Model
 # Aim
 To find
+
 (a)	Average number of materials in the system 
+
 (b)	Average number of materials in the conveyor
+
 (c)	Waiting time of each material in the system
+
 (d)	Waiting time of each material in the conveyor
+
+
 
 If the arrival of materials follow poisson process with mean interval time 12 seconds, service time of lathe machine follows exponential distribution with mean service time 1 second and average service time of robot is 7 seconds.
 # Software Required:  Visual Components and Python
