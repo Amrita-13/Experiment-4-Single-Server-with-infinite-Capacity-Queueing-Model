@@ -53,6 +53,7 @@ else:
  print("Warning! Objects overflow will happen in the conveyer")
 print("----------------------------------------") 
 ```
+Colab link:https://colab.research.google.com/drive/1lSYlz-lhbXfJOBogD2m_wxrnLkdpfbM5?usp=sharing
 # Output
 <img width="708" height="347" alt="image" src="https://github.com/user-attachments/assets/f06110c7-34f0-4dde-ba2f-d21724521083" />
 
